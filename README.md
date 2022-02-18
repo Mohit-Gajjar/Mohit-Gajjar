@@ -13,7 +13,7 @@ Currently learning ML/AI. Working on projects for Personal Brand.
 Java | Python | Dart | C# | C | C++ | HTML | CSS | Blockchain | Solidity | UI/UX | Graphic Design. 
 
 
-## 🔗 Ways to connect me..
+## 🔗 Lets Connect..
 
  - [Instagram](https://www.instagram.com/debug_ntity.ig/)
  - [Twitter](https://twitter.com/DebugNtity)
