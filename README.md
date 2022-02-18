@@ -6,7 +6,7 @@ I'm Mohit Gajjar currently persuing Computer Science & Engineering.
 
 ## 🚀 About Me
 I'm a full Stack Developer and Tech enthusiast. Love to work on new technologies.
-Currently learning ML/AI. Working on projects for Personal Brand.
+Currently learning Blockchain-Technology. Working on projects for Personal Brand.
 
 
 ## 🛠 Skills
