@@ -10,7 +10,7 @@ Currently learning Blockchain-Technology. Working on projects for Personal Brand
 
 
 ## 🛠 Skills
-Java | Python | Dart | C# | C | C++ | HTML | CSS | Blockchain | Solidity | UI/UX | Graphic Design. 
+Java | Python | Dart | C# | C | C++ | HTML | CSS | Blockchain | Solidity | Web3 | UI/UX | Graphic Design. 
 
 
 ## 🔗 Lets Connect..
