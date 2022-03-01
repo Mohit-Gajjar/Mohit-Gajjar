@@ -18,5 +18,5 @@ Java | Python | Dart | C# | C | C++ | HTML | CSS | Blockchain | Solidity | Web3 
  - [Instagram](https://www.instagram.com/debug_ntity.ig/)
  - [Twitter](https://twitter.com/DebugNtity)
  - [LinkedIn](https://www.linkedin.com/in/mohit-gajjar-b1398020a/)
- - [Website](https://debuglabs.tech)
+ - [Website](https://mohitgajjar.rocks/)
 
